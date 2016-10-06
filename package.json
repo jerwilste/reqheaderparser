@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.14.0",
-    "parse-http-header": "^1.0.0"
+    "parse-http-header": "^1.0.0",
+    "user-agent-parser": "^0.6.0"
   }
 }
